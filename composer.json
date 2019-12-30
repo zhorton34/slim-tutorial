@@ -23,7 +23,9 @@
     ],
     "require": {
         "php": ">=7.1",
+        "ext-PDO": "^7.4",
         "ext-json": "*",
+        "ext-mysqli": "^7.4",
         "monolog/monolog": "^1.24",
         "php-di/php-di": "^6.0",
         "slim/psr7": "^0.5",

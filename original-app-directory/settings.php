@@ -1,8 +1,8 @@
 <?php
 declare(strict_types=1);
 
-use DI\ContainerBuilder;
 use Monolog\Logger;
+use DI\ContainerBuilder;
 
 return function (ContainerBuilder $containerBuilder) {
     // Global Settings Object
